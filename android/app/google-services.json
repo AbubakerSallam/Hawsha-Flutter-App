@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130866113304",
+    "project_id": "chatplus-dc036",
+    "storage_bucket": "chatplus-dc036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130866113304:android:fa17fa0d2478ce96494c6d",
+        "android_client_info": {
+          "package_name": "com.example.hosha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjDbCmdkrNVPkcAADDJdEfL3qBOM5unZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
